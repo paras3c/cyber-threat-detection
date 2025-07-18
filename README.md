@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/your_futuristic_banner_here.png" alt="Futuristic Banner" width="800">
+ <img src="https://github.com/paras3c/cyber-threat-detection/blob/main/AI2-CSAIL.jpg?raw=true" alt="Futuristic Banner" width="800">
 </p>
 
 
