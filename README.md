@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/paras3c/cyber-threat-detection/blob/main/AI2-CSAIL.jpg?raw=true" alt="Futuristic Banner" width="800">
+ <img src="https://raw.githubusercontent.com/paras3c/cyber-threat-detection/refs/heads/main/mlm-industries-in-focus-cybersecurity.webp" alt="Futuristic Banner" width="800">
 </p>
 
 
@@ -10,7 +10,7 @@
 
 
 <p align="center">
- <img src="https://i.imgur.com/your_futuristic_logo_here.png" alt="Project Logo" width="200">
+ <img src="https://github.com/paras3c/cyber-threat-detection/blob/main/AI2-CSAIL.jpg?raw=true" alt="Project Logo" width="200">
 </p>
 
 
