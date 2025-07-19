@@ -52,9 +52,5 @@ The project's theme embraces a futuristic vision of cybersecurity, where intelli
 | Scikit-learn        | <img src="[Scikit_Learn_Logo_URL_HERE]" alt="Scikit-learn" width="50"> |
 | NumPy               | <img src="[NumPy_Logo_URL_HERE]" alt="NumPy" width="50">       |
 | Pandas              | <img src="[Pandas_Logo_URL_HERE]" alt="Pandas" width="50">     |
-| Matplotlib          | <img src="[Matplotlib_Logo_URL_HERE]" alt="Matplotlib" width="50"> |
-| Seaborn             | <img src="[Seaborn_Logo_URL_HERE]" alt="Seaborn" width="50">   |
-
-
 
 ## Project Structure
